@@ -1,5 +1,5 @@
 def join_nested_strings(src)
-total = 0
+new_array = 0
 row_index = 0
 while row_index < guessing_game_grid.count do
   element_index = 0
